@@ -7,8 +7,8 @@ public class Main {
 			System.out.println("hello World");
 			int x = 2+5;
 			System.out.println(x);
-			System.out.println("test");
-
+			System.out.println("after test");
+			
 	}
 
 }
